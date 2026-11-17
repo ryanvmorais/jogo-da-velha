@@ -1,3 +1,7 @@
+> **Este projeto mudou de endereço.** A versão mantida está em
+> [aprenda-com-ryan-morais › mini_projetos › jogo_da_velha](https://github.com/ryanvmorais/aprenda-com-ryan-morais/tree/main/mini_projetos/jogo_da_velha).
+> Este repositório fica arquivado para não quebrar links antigos.
+
 ![Jogo da Velha em Python: captura real do terminal com uma partida vencida por X](assets/jogo-da-velha-python-terminal.svg)
 
 # ⭕ Jogo da Velha em Python | Exercício de Lógica de Programação
